@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-tbj88e.juragan89a.space/sitemap.xml
